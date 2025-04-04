@@ -74,6 +74,7 @@
             // 
             this.txbContra.Location = new System.Drawing.Point(193, 124);
             this.txbContra.Name = "txbContra";
+            this.txbContra.PasswordChar = '*';
             this.txbContra.Size = new System.Drawing.Size(100, 20);
             this.txbContra.TabIndex = 4;
             // 
